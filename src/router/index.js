@@ -7,7 +7,7 @@ import GenresList from "../components/genresList";
 const router = createBrowserRouter([
     {
       path: "/",
-      element:<AllMovies/>,
+      element:<Search/>,
     }
     ,
     {
